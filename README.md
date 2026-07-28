@@ -32,3 +32,4 @@
 | 1259420  | 往日不再<br/>Days Gone                                            | 67  | 繁体 |
 | 394360   | 钢铁雄心4<br/>Hearts of Iron IV | 293 | 简体 |
 | 242760   | 森林<br/>The Forest | 45 | 简体 |
+| 236850   | 欧陆风云4<br/>Europa Universalis IV | 373 | 简体 |
